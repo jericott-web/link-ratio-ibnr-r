@@ -1,8 +1,5 @@
-# IBNR Reserving: Link Ratio Methods
 
 This project implements Link Ratio methods for IBNR reserving based on the *Claims Reserving Manual*, Volume 1, Chapter E (Pages 161-182), 1997 Edition, published by the Faculty and Institute of Actuaries.
-
-## Implemented Methods
 
 The repository contains R implementations of four key reserving techniques from the Manual:
 
